@@ -3,3 +3,4 @@ idnum:2021041022
 department:software
 grade:1
 subject:opensource software
+today sentence: believe you can and you are halfway there.
